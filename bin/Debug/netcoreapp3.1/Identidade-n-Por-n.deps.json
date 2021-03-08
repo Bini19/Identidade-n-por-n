@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Identidade-n-Por-n/1.0.0": {
+        "runtime": {
+          "Identidade-n-Por-n.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Identidade-n-Por-n/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

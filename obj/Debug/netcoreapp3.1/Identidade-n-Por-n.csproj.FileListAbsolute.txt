@@ -1,0 +1,12 @@
+C:\Users\PICHAU\source\repos\Identidade-n-Por-n\obj\Debug\netcoreapp3.1\Identidade-n-Por-n.AssemblyInfoInputs.cache
+C:\Users\PICHAU\source\repos\Identidade-n-Por-n\obj\Debug\netcoreapp3.1\Identidade-n-Por-n.AssemblyInfo.cs
+C:\Users\PICHAU\source\repos\Identidade-n-Por-n\obj\Debug\netcoreapp3.1\Identidade-n-Por-n.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\source\repos\Identidade-n-Por-n\bin\Debug\netcoreapp3.1\Identidade-n-Por-n.exe
+C:\Users\PICHAU\source\repos\Identidade-n-Por-n\bin\Debug\netcoreapp3.1\Identidade-n-Por-n.deps.json
+C:\Users\PICHAU\source\repos\Identidade-n-Por-n\bin\Debug\netcoreapp3.1\Identidade-n-Por-n.runtimeconfig.json
+C:\Users\PICHAU\source\repos\Identidade-n-Por-n\bin\Debug\netcoreapp3.1\Identidade-n-Por-n.runtimeconfig.dev.json
+C:\Users\PICHAU\source\repos\Identidade-n-Por-n\bin\Debug\netcoreapp3.1\Identidade-n-Por-n.dll
+C:\Users\PICHAU\source\repos\Identidade-n-Por-n\bin\Debug\netcoreapp3.1\Identidade-n-Por-n.pdb
+C:\Users\PICHAU\source\repos\Identidade-n-Por-n\obj\Debug\netcoreapp3.1\Identidade-n-Por-n.dll
+C:\Users\PICHAU\source\repos\Identidade-n-Por-n\obj\Debug\netcoreapp3.1\Identidade-n-Por-n.pdb
+C:\Users\PICHAU\source\repos\Identidade-n-Por-n\obj\Debug\netcoreapp3.1\Identidade-n-Por-n.genruntimeconfig.cache
